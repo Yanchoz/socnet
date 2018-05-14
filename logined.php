@@ -10,7 +10,7 @@
 <body>
     <section id="container" class="">
         <div class="jumbotron text-center">
-          <h1>Loged in</h1> 
+          <h1>Loged in!</h1> 
         </div>
     </section>
 </body>
